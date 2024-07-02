@@ -26,3 +26,8 @@ Délécharger et décompresser
 ### JUPYTER
 
 Tous les commandes en python
+
+## 3. CHATBOT DISCORD
+
+https://github.com/Sangmin-SHIM/BOT_AI/assets/93679283/3aa9884c-483a-428c-8b43-be75af310ba8
+
