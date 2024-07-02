@@ -4,6 +4,9 @@
 
 USA Real Estate.html
 
+![image](https://github.com/Sangmin-SHIM/AI_USA_REAL_ESTATE/assets/93679283/0ad0d298-070f-479c-a04c-4f2ba8bafbf7)
+
+
 ## CSV
 
 Source : https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data
