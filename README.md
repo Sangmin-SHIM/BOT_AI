@@ -1,18 +1,21 @@
-# AI_USA_REAL_ESTATE
+# LISTE A RENDRE
 
-## EXTRACT HTML (FROM JUPYTER)
+## 1. FLOW DE CHATBOT
+
+## 2. MODELE IA - USA_REAL_ESTATE
+
+### EXTRAIT HTML (FROM JUPYTER)
 
 USA Real Estate.html
 
 ![image](https://github.com/Sangmin-SHIM/AI_USA_REAL_ESTATE/assets/93679283/0ad0d298-070f-479c-a04c-4f2ba8bafbf7)
 
-
-## CSV
+### CSV
 
 Source : https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data
 
 Délécharger et décompresser
 
-## JUPYTER
+### JUPYTER
 
 Tous les commandes en python
